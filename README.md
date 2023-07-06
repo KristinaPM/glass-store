@@ -10,12 +10,13 @@
 - Проектный менеджер
 - Маркетолог
 - Веб-дизайнер 
-- Фронтенд-разработчик 
-- Тестировщик 
 - Копирайтер
 \
 \
 ***Результат разработки***
+  Чат бот:
+
+https://t.me/Bright_vision_bot 
   
   Сайт:
 
@@ -44,11 +45,7 @@ https://github.com/KristinaPM/glass-store/assets/138672828/5594905d-c3f2-4e4a-b8
 \
 \
 ![Оплата-и-доставка-—-Bright-Vision](https://github.com/KristinaPM/glass-store/assets/138672828/a095f2ee-a6fa-42a9-a86e-c88ac2d5c153)
-\
-\
-Чат бот:
 
-https://t.me/Bright_vision_bot 
 
 
 
