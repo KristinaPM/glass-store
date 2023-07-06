@@ -12,4 +12,10 @@
 - Веб-дизайнер 
 - Фронтенд-разработчик 
 - Тестировщик 
-- Копирайтер 
+- Копирайтер
+
+\
+\
+***Результат разработки***
+[![Watch the video](https://github.com/KristinaPM/glass-store/blob/main/Bright%20Vision.mp4)](https://github.com/KristinaPM/glass-store/blob/main/Bright%20Vision.mp4)
+
