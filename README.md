@@ -14,11 +14,12 @@
 \
 \
 ***Результат разработки***
-  Чат бот:
+  
+Чат бот:
 
 https://t.me/Bright_vision_bot 
   
-  Сайт:
+ Сайт:
 
 https://github.com/KristinaPM/glass-store/assets/138672828/5594905d-c3f2-4e4a-b818-104bb3585818
 
